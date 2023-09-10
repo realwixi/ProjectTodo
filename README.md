@@ -39,4 +39,10 @@ A To-Do list is a simple and effective tool for organizing tasks and managing yo
 
 In conclusion, To-Do lists are a valuable tool for staying organized, managing time effectively, and achieving your goals. Whether you prefer traditional pen-and-paper lists or digital task management apps, using To-Do lists can help you become more productive and less stressed in both your personal and professional life.
 
+#THIS IS HOW MY PROJECT LOOKS
+**first**
+![todo1](https://github.com/realwixi/ProjectTodo/blob/main/Screenshot%202023-09-10%20at%208.06.43%20AM.png)
+**second**
+![]()
+
 
